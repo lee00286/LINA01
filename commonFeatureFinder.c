@@ -4,13 +4,14 @@
  *  - No part of this code may be reproduced without written authorization
  *
  *
+ * Description:
  * This code searches for the common feature between consonants or vowels.
  * A number is assigned for each consonant and vowel for easier input.
  * The code will ask three questions to answer. Proper error-checking
  * is not provided, so please read and type-in the input carefully.
  *
  *
- * Chart of assigned numbers:
+ * Table of assigned numbers:
  * || =============================================== ||
  * ||     CONSONANTS      ||||         VOWELS         ||
  * || =============================================== ||
@@ -56,7 +57,7 @@
  *  - Simple Vowels/Diphthong (Simple Vowel, Major Diphthong, Minor Diphthong)
  *
  *
- * Notes:
+ * Important Notes:
  *  - This code is only for the English consonants and vowels
  *  - Some features are excluded
  *    - e.g. "Lateral Liquid" and "Retroflex Liquid" are combined as "Liquid"
