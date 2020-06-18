@@ -12,8 +12,11 @@ Proper error-checking is not provided, so please read and type-in the input care
 
 ## Chart of assigned numbers:
 || =============================================== ||
+
 ||     CONSONANTS      ||||         VOWELS         ||
+
 || =============================================== ||
+
 || 1: p                |||| 1: i                   ||
 || 2: b                |||| 2: ɪ                   ||
 || 3: m                |||| 3: u                   ||
@@ -61,6 +64,8 @@ Proper error-checking is not provided, so please read and type-in the input care
 - Finding a common feature between consonants and vowels is not supported in this code
 
 ## How to compile and run the code:
+'''
 $> gcc commonFeatureFinder.c -o commonFeature
 $> ./commonFeature (on Mac)
 $> .\commonFeature.exe (on Windows)
+'''
