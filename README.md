@@ -10,12 +10,13 @@ A number is assigned for each consonant and vowel for easier input.
 The code will ask three questions to answer. 
 Proper error-checking is not provided, so please read and type-in the input carefully.
 
-## Chart of assigned numbers
-|| =============================================== ||
+## Table of assigned numbers
+| Number | Consonants | Vowels |
+| :---: |:---:|:---:|
+|1|p|i|
+|2|b|ɪ|
 
-||     CONSONANTS      ||||         VOWELS         ||
 
-|| =============================================== ||
 
 || 1: p                |||| 1: i                   ||
 
