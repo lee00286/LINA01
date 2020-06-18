@@ -1,8 +1,8 @@
 # Phonetics Common Feature Finder
 
-Phonetics Common Feature Finder - the English Consonants and Vowels
-(c) Yena Lee, Jun. 2020
-- No part of this code may be reproduced without written authorization
+> Phonetics Common Feature Finder - the English Consonants and Vowels
+> (c) Yena Lee, Jun. 2020
+> - No part of this code may be reproduced without written authorization
 
 ## Description:
 This code searches for the common feature between consonants or vowels.
