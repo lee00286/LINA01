@@ -52,7 +52,7 @@ Proper error-checking is not provided, so please read and type-in the input care
 - Roundedness of the Lips (Rounded, Unrounded)
 - Simple Vowels/Diphthong (Simple Vowel, Major Diphthong, Minor Diphthong)
 
-## Notes
+## Important Notes
 - This code is only for the English consonants and vowels
 - Some features are excluded
   - e.g. "Lateral Liquid" and "Retroflex Liquid" are combined as "Liquid"
