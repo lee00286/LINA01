@@ -7,8 +7,11 @@
 
 ## Description
 This code searches for the common feature between consonants or vowels.
+
 A number is assigned for each consonant and vowel for easier input.
+
 The code will ask three questions to answer. 
+
 Proper error-checking is not provided, so please read and type-in the input carefully.
 
 ## Table of assigned numbers
